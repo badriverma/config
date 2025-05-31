@@ -2,7 +2,7 @@ build:
   version: "1.0 version"
 
 accounts:
-  message: "Welcome to eazy back account related prod APIs"
+  message: "Welcome to eazy back account related production APIs"
   contactDetails:
     name: "Badri Prasad Verma prod"
     email: "a7d90ffa32ddda2e01a419bc4485acc1b0e2e41f989540dd24fb99231f91a63bfa5e041498cdcd711f6e8956d6d490e4"
